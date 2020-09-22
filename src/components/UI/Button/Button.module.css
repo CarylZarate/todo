@@ -1,0 +1,8 @@
+.add{
+	background: #dfa700;
+	border: 2px double #000;
+	border-radius: 5px;
+}
+.add:hover, .add:active{
+	background: #ebc860;
+}

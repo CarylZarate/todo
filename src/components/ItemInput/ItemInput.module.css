@@ -1,0 +1,15 @@
+.content{
+	padding:10px;
+	margin-bottom: 10px;
+}
+.addBtn{
+	background: #dfa700;
+	border: 2px double #000;
+	border-radius: 5px;
+}
+.addBtn:hover{
+	background: #ebc860;
+}
+.addBtn:active{
+	background: #ebc860;
+}

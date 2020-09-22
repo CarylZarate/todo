@@ -1,0 +1,27 @@
+$fontcolor: white;
+$btnbg: #ebc860;
+
+.items{
+	list-style: none;
+	padding: 7px 5px;
+	color: $fontcolor;
+}
+.itemActive{
+	list-style: none;
+	padding: 7px 5px;
+	color:grey;
+	text-decoration: line-through
+}
+.removeBtn{
+	margin-left: 10px;
+	border-radius: 50px;
+	background: #dfa700;
+	border: 2px double #000;
+	float: right;
+}
+.removeBtn:hover{
+	background: $btnbg;
+}
+.removeBtn:active{
+	background: $btnbg;
+}

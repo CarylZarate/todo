@@ -1,0 +1,13 @@
+.content{
+	border: 10px double #dfa700;
+	width:80%;
+	height: 80vh;
+	margin: auto;
+	display: block;
+	padding: 20px;
+	overflow-y: scroll;
+	background: #002018;
+}
+.content::-webkit-scrollbar{
+	width:0px;
+}

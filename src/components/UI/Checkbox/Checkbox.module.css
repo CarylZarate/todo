@@ -1,0 +1,14 @@
+.checkbox{
+	width: 12px;
+	height: 12px;
+	margin-right: 3px;
+	background-color: #dfa700;
+	display: inline-block;	
+}
+.checkboxOn{
+	width: 12px;
+	height: 12px;
+	margin-right: 3px;
+	background-color: grey;
+	display: inline-block;
+}
